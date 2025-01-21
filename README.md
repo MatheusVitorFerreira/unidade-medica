@@ -15,7 +15,7 @@ Testes Unitários: A API possui testes unitários abrangentes para garantir a qu
 
 ## Tecnologias:
 
--Linguagem de Programação: Node.js
+- Linguagem de Programação: Node.js
 - Framework: NestJS
 - Mapeamento Objeto-Relacional: TypeORM
 - Banco de Dados: PostgreSQL
